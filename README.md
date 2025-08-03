@@ -143,4 +143,5 @@ This version of the app supports the following features:
 - **Server:** Node, Express
 - **Database:** Minio, MongoDB
 
-Enjoy exploring Mini LinkedIn! 😃👥🌟
+
+
